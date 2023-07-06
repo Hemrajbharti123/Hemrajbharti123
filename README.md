@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemrajbharti123&label=Profile%20views&color=0e75b6&style=flat" alt="hemrajbharti123" /> </p>
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **React JS , Node JS , Next JS**
 
 - 📫 How to reach me **bhartihemu111@gmail.com**
 
